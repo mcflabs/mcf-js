@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+# What "npm pack" writes when the package is tried out locally.
+*.tgz

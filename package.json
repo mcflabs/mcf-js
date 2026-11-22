@@ -1,0 +1,21 @@
+{
+  "name": "make-captcha-fun-js",
+  "version": "0.1.0",
+  "description": "Server library for Make Captcha Fun. Counts what visitors read and asks heavy readers to verify.",
+  "keywords": [
+    "captcha",
+    "scraping",
+    "express",
+    "middleware",
+    "make-captcha-fun"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/",
+    "docs/"
+  ],
+  "engines": {
+    "node": ">=24"
+  }
+}
